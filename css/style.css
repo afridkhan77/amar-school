@@ -1,0 +1,380 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  font-family: 'Rubik', sans-serif;
+  overflow-x: hidden;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Rubik', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.header-section{
+  width: 100%;
+  background-color: #3d3d3d;
+}
+.header-section .navbar-brand{
+  width: 100%;
+  font-size: 18px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.header-section .navbar-nav .nav-item .nav-link{
+  font-size: 18px;
+	font-weight: 700;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	color: #aaa;
+	transition: 1s;
+  font-family: 'Rubik', sans-serif;
+  padding: 0px 20px;
+}
+.header-section .navbar-nav .nav-item .nav-link:hover{
+  color: #00E77F;
+}
+.banner{
+  width: 100%;
+  padding: 80px 0px;
+  background-color: #3d3d3d;
+}
+.inner-banner{
+  width: 100%;
+  padding: 80px 0px;
+}
+.inner-banner h3{
+  font-size: 100px;
+  line-height: 110px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: capitalize;
+  text-align: center;
+}
+.inner-banner h3 span{
+  color: #00E77F;
+}
+.inner-banner .btn-primary{
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 35px;
+  padding: 8px 40px;
+  background-color: #00E77F;
+  margin-left: 250px;
+  margin-top: 15px;
+  color: #fff;
+  border: 1px solid #00E77F;
+}
+.inner-banner .btn-primary:hover{
+  color: #fff;
+  background: transparent;
+  border: 1px solid #fff;
+  transition: 1s;
+}
+.count{
+  width: 100%;
+  padding: 80px 0px;
+  background: #3d3d3d;
+}
+.count-box{
+  background-color: #4b4b4b;
+  padding: 10px 60px;
+}
+.count-box .fa{
+  font-size: 80px;
+  margin-left: 40px;
+}
+.count-box h3{
+  padding: 10px 0px;
+  font-size: 40px;
+  margin-left: 40px;
+}
+.count-box p{
+  font-size: 30px;
+  margin-left: 40px;
+}
+.count .count-box:hover{
+  background-color: #00E77F;
+}
+.why-chose{
+  width: 100%;
+  padding: 30px 0px;
+  background: #3d3d3d;
+}
+.chose-inner{
+  width: 100%;
+  padding: 250px 0px;
+}
+.chose-inner h3{
+  font-size: 40px;
+  color: #fff;
+  font-weight: 600;
+  margin-left: 150px;
+}
+.chose-inner p{
+  font-size: 16px;
+  color: #aaa;
+  font-weight: 500;
+  margin-left: 150px;
+  padding: 15px 0px;
+}
+.chose-inner .btn-primary{
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 35px;
+  padding: 8px 40px;
+  background-color: #00E77F;
+  margin-left: 250px;
+  margin-top: 15px;
+  color: #fff;
+  border: 1px solid #00E77F;
+}
+.chose-inner .btn-primary:hover{
+  color: #fff;
+  border: 1px solid #fff;
+  transition: 1s;
+  background: transparent;
+}
+.our-course{
+  width: 100%;
+  padding: 30px 0px;
+  background: #3d3d3d;
+}
+.title{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h1{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+}
+.title h1 span{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #00E77F;
+  text-align: center;
+}
+.our-info{
+  width: 100%;
+  padding: 30px 0px;
+  padding: 10px 30px;
+  background-color: #3d3d3d;
+}
+.our-content h3{
+  font-size: 25px;
+  color: #fff;
+  font-weight: 500;
+  padding-left: 80px;
+  text-transform: capitalize;
+}
+.our-content p{
+  font-size: 14px;
+  color: #fff;
+  font-weight: 500;
+  padding: 10px 0px 60px 0px;
+}
+.tutors{
+  width: 100%;
+  padding: 20px 0px;
+  background: #3d3d3d;
+}
+.title{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h1{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+}
+.title h1 span{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #00E77F;
+  text-align: center;
+  margin-left: 15px;
+}
+.tutor-info{
+  width: 100%;
+  text-align: center;
+  border: 2px solid #aaa;
+  padding: 10px 50px;
+}
+.tutor-info:hover{
+  background: #4b4b4b;
+}
+.tutor-info .info-img img{
+  width: 100%;
+  margin-right: 40px;
+}
+.tutor-info .info-img a{
+  text-decoration: none;
+  margin-left: 10px;
+  font-size: 30px;
+  line-height: 30px;
+  border-radius: 30px;
+  color: #00E77F;
+  padding: 10px 0px;
+}
+.tutor-info .info-img a:hover{
+  color: #fff;
+}
+.tutor-info h3{
+  font-size: 25px;
+  color: #fff;
+  font-weight: 700;
+}
+.student{
+  width: 100%;
+  padding: 80px 0px;
+  background: #3d3d3d;
+}
+.title{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h1{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+}
+.title h1 span{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #00E77F;
+  text-align: center;
+  margin-left: 15px;
+}
+.student-box{
+  width: 100%;
+  padding: 0px 15px;
+  background: #4b4b4b;
+}
+.student-info{
+  width: 100%;
+}
+.student-info p{
+  font-size: 16px;
+  color: #aaa;
+}
+.student-user{
+  width: 100%;
+}
+.student-user img{
+  width: 80px;
+  font-size: 80px;
+  line-height: 80px;
+  border-radius: 80px;
+}
+.student-user h3{
+  font-size: 25px;
+  color: #fff;
+  font-weight: 500;
+  margin-top: -60px;
+  margin-left: 100px;
+}
+.star-icon{
+  width: 100%;
+  padding: 30px 0px;
+  color: #00E77F;
+}
+.contact{
+  width: 100%;
+  padding: 40px 0px;
+  background: #3d3d3d;
+}
+.title{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h1{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #00E77F;
+  text-align: center;
+}
+.title h1 span{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  margin-left: 5px;
+  text-transform: uppercase;
+}
+.contact-box{
+  width: 100%;
+  padding: 240px 0px;
+}
+.contact-box{
+  width: 100%;
+}
+.contact-box .main-form{
+  padding: 15px 12px;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase;
+  border: 1px solid #aaa;
+	border-radius: 3px;
+	background: transparent;
+}
+.contact-box .btn-primary{
+  width: 100%;
+	padding: 10px 45px;
+	font-size: 14px;
+  font-weight: 500;
+	letter-spacing: 1px;
+  text-transform: uppercase;
+  background: #3d3d3d;
+  border: 1px solid #aaa;
+}
+.contact-box .btn-primary:hover{
+  background: #00E77F;
+  border: 1px solid #00E77F;
+}
+.footer{
+  width: 100%;
+  padding: 30px 0px;
+  background: #4b4b4b;
+}
+.social-icon{
+  width: 100%;
+  padding: 10px 0px;
+}
+.social-icon ul{
+  text-align: center;
+}
+.social-icon ul i{
+  list-style: none;
+  padding: 0px 20px;
+  font-size: 30px;
+  line-height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  color: #fff;
+}
+.social-icon ul i:hover{
+  color: #00E77F;
+}
+.copy-right{
+  width: 100%;
+  text-align: center;
+}
+.coppyrights {
+  font-size: 20px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #fff;
+}

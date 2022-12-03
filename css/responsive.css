@@ -1,0 +1,639 @@
+@media (min-width: 279px) and (max-width: 319px){
+  .header-section .navbar-brand{
+    font-size: 16px;
+    margin-left: 40px;
+  }
+  .banner{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .inner-banner{
+    padding: 10px 0px;
+  }
+  .inner-banner h3{
+    font-size: 25px;
+  }
+  .inner-banner .btn-primary{
+    font-size: 12px;
+    margin: 0px 40px 0px;
+  }
+  .inner-img{
+    width: 90%;
+  }
+  .count{
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .count-box{
+    margin: 8px 15px;
+  }
+  .count-box .fa{
+    font-size: 40px;
+  }
+  .count-box h3{
+    font-size: 30px;
+    margin-left: 30px;
+  }
+  .count-box p{
+    font-size: 18px;
+  }
+  .why-chose{
+    width: 100%;
+  }
+  .chose-inner{
+    width: 100%;
+  }
+  .chose-inner h3{
+    font-size: 22px;
+    margin-left: 30px;
+    padding: 20px;
+    margin-top: -190px;
+  }
+  .chose-inner p{
+    font-size: 10px;
+    padding: 0px 5px;
+    margin-left: 30px;
+  }
+  .chose-inner .btn-primary{
+    font-size: 12px;
+    margin: 20px 40px 10px;
+  }
+  .our-course{
+    width: 100%;
+    padding: -20px 0px;
+  }
+  .title h1{
+    font-size: 25px;
+  }
+  .title h1 span{
+    font-size: 25px;
+  }
+  .our-info{
+    width: 90%;
+    margin-top: -30px;
+  }
+  .our-content h3{
+    font-size: 16px;
+    padding: 10px 5px;
+  }
+  .our-content p{
+    font-size: 12px;
+    margin: 0px 10px;
+  }
+  .title h1{
+    font-size: 25px;
+  }
+  .title h1 span{
+    font-size: 25px;
+  }
+  .tutor-info{
+    width: 85%;
+    margin: 5px 20px;
+  }
+  .tutor-info .info-img a{
+    font-size: 17px;
+  }
+  .tutor-info h3{
+    font-size: 16px;
+  }
+  .student{
+    width: 100%;
+    font-size: 20px;
+  }
+  .student .title h1{
+    font-size: 20px;
+  }
+  .student .title h1 span{
+    font-size: 20px;
+  }
+  .student-box{
+    margin: 8px 0px;
+  }
+  .student-info{
+    width: 100%;
+  }
+  .student-info p{
+    font-size: 12px;
+    color: #aaa;
+    padding: 25px 0px;
+  }
+  .student-user img{
+    width: 25%;
+    margin: 15px 10px;
+  }
+  .student-user h3{
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+  }
+  .star-icon{
+    width: 50%;
+    margin-left: 60px;
+  }
+  .contact{
+    width: 100%;
+    padding: 0px;
+  }
+  .title h1{
+    font-size: 28px;
+  }
+  .title h1 span{
+    font-size: 28px;
+  }
+  .contact-box{
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .footer{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .social-icon{
+    width: 100%;
+    padding-right: 30px;
+  }
+  .social-icon ul i{
+    font-size: 14px;
+    margin-left: -18px;
+  }
+  .copy-right{
+    width: 100%;
+  }
+  .coppyrights{
+    font-size: 11px;
+  }
+}
+
+/* 320 to 480 */
+@media (min-width: 320px) and (max-width: 480px){
+  .header-section .navbar-brand{
+    font-size: 30px;
+    margin-left: 40px;
+  }
+  .banner{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .inner-banner{
+    padding: 10px 0px;
+  }
+  .inner-banner h3{
+    font-size: 35px;
+  }
+  .inner-banner .btn-primary{
+    font-size: 14px;
+    margin: 0px 90px 0px;
+  }
+  .inner-img{
+    width: 90%;
+  }
+  .count{
+    width: 100%;
+    padding: 40px 0px;
+  }
+  .count-box{
+    margin: 8px 15px;
+  }
+  .count-box .fa{
+    font-size: 40px;
+    padding-left: 40px;
+  }
+  .count-box h3{
+    font-size: 30px;
+    padding-left: 30px;
+  }
+  .count-box p{
+    font-size: 18px;
+    padding-left: 30px;
+  }
+  .why-chose{
+    width: 100%;
+  }
+  .chose-inner{
+    width: 100%;
+  }
+  .chose-inner h3{
+    font-size: 35px;
+    margin-left: 30px;
+    padding: 20px;
+    margin-top: -190px;
+  }
+  .chose-inner p{
+    font-size: 12px;
+    padding: 0px 5px;
+    margin-left: 30px;
+  }
+  .chose-inner .btn-primary{
+    font-size: 14px;
+    margin: 20px 90px;
+  }
+  .our-course{
+    width: 100%;
+    padding: -20px 0px;
+  }
+  .title h1{
+    font-size: 40px;
+  }
+  .title h1 span{
+    font-size: 40px;
+  }
+  .our-info{
+    width: 90%;
+    margin-top: -30px;
+  }
+  .our-content h3{
+    font-size: 22px;
+    padding: 10px 25px;
+  }
+  .our-content p{
+    font-size: 12px;
+    margin: 0px 25px;
+  }
+  .tutors .title h1{
+    font-size: 30px;
+  }
+  .tutors .title h1 span{
+    font-size: 30px;
+  }
+  .tutor-info{
+    width: 90%;
+    margin: 7px 20px;
+  }
+  .tutor-info .info-img a{
+    font-size: 25px;
+  }
+  .tutor-info h3{
+    font-size: 18px;
+  }
+  .student{
+    width: 100%;
+    font-size: 20px;
+  }
+  .student .title h1{
+    font-size: 30px;
+  }
+  .student .title h1 span{
+    font-size: 30px;
+  }
+  .student-box{
+    margin: 8px 0px;
+  }
+  .student-info{
+    width: 100%;
+  }
+  .student-info p{
+    font-size: 14px;
+    color: #aaa;
+    padding: 25px 0px;
+  }
+  .student-user img{
+    width: 20%;
+    margin: 15px 30px;
+  }
+  .student-user h3{
+    font-size: 28px;
+    margin-bottom: 5px;
+    padding-left: 25px;
+  }
+  .star-icon{
+    width: 50%;
+    margin-left: 80px;
+  }
+  .contact{
+    width: 100%;
+    padding: 0px;
+  }
+  .title h1{
+    font-size: 45px;
+  }
+  .title h1 span{
+    font-size: 45px;
+  }
+  .contact-box{
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .footer{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .social-icon{
+    width: 100%;
+    padding-right: 50px;
+  }
+  .social-icon ul i{
+    font-size: 16px;
+  }
+  .copy-right{
+    width: 100%;
+  }
+  .coppyrights{
+    font-size: 14px;
+  }
+}
+/* 320 to 480 */
+
+
+@media (min-width: 481px) and (max-width: 767px){
+  .header-section .navbar-brand{
+    font-size: 30px;
+    margin-left: 40px;
+  }
+  .banner{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .inner-banner{
+    padding: 10px 0px;
+  }
+  .inner-banner h3{
+    font-size: 35px;
+  }
+  .inner-banner .btn-primary{
+    font-size: 14px;
+    margin: 0px 90px 0px;
+  }
+  .inner-img{
+    width: 90%;
+  }
+  .count{
+    width: 100%;
+    padding: 40px 0px;
+  }
+  .count-box{
+    margin: 8px 15px;
+  }
+  .count-box .fa{
+    font-size: 40px;
+    padding-left: 40px;
+  }
+  .count-box h3{
+    font-size: 30px;
+    padding-left: 30px;
+  }
+  .count-box p{
+    font-size: 18px;
+    padding-left: 30px;
+  }
+  .why-chose{
+    width: 100%;
+  }
+  .chose-inner{
+    width: 100%;
+  }
+  .chose-inner h3{
+    font-size: 33px;
+    margin-left: 30px;
+    padding: 20px;
+    margin-top: -190px;
+  }
+  .chose-inner p{
+    font-size: 10px;
+    padding: 0px 5px;
+    margin-left: 30px;
+  }
+  .chose-inner .btn-primary{
+    font-size: 16px;
+    margin: 20px 90px;
+  }
+  .our-course{
+    width: 100%;
+    padding: -20px 0px;
+  }
+  .title h1{
+    font-size: 25px;
+  }
+  .title h1 span{
+    font-size: 25px;
+  }
+  .our-info{
+    width: 90%;
+    margin-top: -30px;
+  }
+  .our-content h3{
+    font-size: 18px;
+    padding: 10px 25px;
+  }
+  .our-content p{
+    font-size: 12px;
+    margin: 0px 25px;
+  }
+  .tutor-info{
+    width: 100%;
+    margin: 7px 0px;
+  }
+  .tutor-info .title h1{
+    width: 90%;
+    font-size: 20px;
+  }
+  .tutor-info .title h1 span{
+    width: 90%;
+    font-size: 20px;
+  }
+  .tutor-info .info-img a{
+    font-size: 25px;
+  }
+  .tutor-info h3{
+    font-size: 18px;
+  }
+  .student{
+    width: 100%;
+    font-size: 20px;
+  }
+  .student .title h1{
+    font-size: 30px;
+  }
+  .student .title h1 span{
+    font-size: 30px;
+  }
+  .student-box{
+    margin: 8px 0px;
+  }
+  .student-info{
+    width: 100%;
+  }
+  .student-info p{
+    font-size: 14px;
+    color: #aaa;
+    padding: 25px 0px;
+  }
+  .student-user img{
+    width: 20%;
+    margin: 15px 30px;
+  }
+  .student-user h3{
+    font-size: 28px;
+    margin-bottom: 5px;
+    padding-left: 25px;
+  }
+  .star-icon{
+    width: 50%;
+    margin-left: 80px;
+  }
+  .contact{
+    width: 100%;
+    padding: 0px;
+  }
+  .title h1{
+    font-size: 45px;
+  }
+  .title h1 span{
+    font-size: 45px;
+  }
+  .contact-box{
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .footer{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .social-icon{
+    width: 100%;
+    padding-right: 50px;
+  }
+  .social-icon ul i{
+    font-size: 16px;
+  }
+  .copy-right{
+    width: 100%;
+  }
+  .coppyrights{
+    font-size: 14px;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+  .header-section .navbar-brand{
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+  }
+  .inner-banner h3{
+    font-size: 70px;
+  }
+  .inner-banner .btn-primary{
+    font-size: 30px;
+  }
+  .count-box{
+    margin: 10px 15px;
+  }
+  .count-box .fa{
+    font-size: 60px;
+    padding-left: 150px;
+  }
+  .count-box h3{
+    font-size: 60px;
+    padding-left: 150px;
+  }
+  .count-box p{
+    font-size: 40px;
+    padding-left: 150px;
+  }
+  .chose-inner h3{
+    font-size: 60px;
+  }
+  .chose-inner p{
+    font-size: 18px;
+  }
+  .chose-inner .btn-primary{
+    font-size: 30px;
+  }
+ .title h1{
+    font-size: 60px;
+  }
+  .title h1 span{
+    font-size: 60px;
+  }
+  .our-content h3{
+    font-size: 40px;
+    padding-left: 150px;
+  }
+  .our-content p{
+    font-size: 20px;
+    padding-left: 120px;
+  }
+  .tutor-info{
+    width: 100%;
+    margin: 12px 0px;
+    padding: 30px 0px;
+  }
+  .tutor-info .title h1{
+    width: 90%;
+    font-size: 20px;
+  }
+  .tutor-info .title h1 span{
+    width: 90%;
+    font-size: 20px;
+  }
+  .tutor-info .info-img{
+    width: 90%;
+    margin-left: 40px;
+  }
+  .tutor-info .info-img a{
+    font-size: 30px;
+    margin-left: 20px;
+  }
+  .tutor-info h3{
+    font-size: 25px;
+  }
+  .student{
+    width: 100%;
+  }
+  .student-box{
+    margin: 12px 0px;
+  }
+  .student-info{
+    width: 100%;
+  }
+  .student-info p{
+    font-size: 16px;
+    color: #aaa;
+    padding: 65px 10px;
+  }
+  .student-user img{
+    width: 20%;
+    margin: 15px 50px;
+  }
+  .student-user h3{
+    font-size: 35px;
+    margin-top: -115px;
+    padding-left: 115px;
+  }
+  .star-icon{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 220px;
+  }
+  .contact{
+    width: 100%;
+  }
+  .title h1{
+    font-size: 65px;
+  }
+  .title h1 span{
+    font-size: 65px;
+  }
+  .contact-box{
+    width: 100%;
+    padding: 30px 0px;
+  }
+  .footer{
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .social-icon{
+    width: 100%;
+    padding-right: 50px;
+  }
+  .social-icon ul i{
+    font-size: 20px;
+  }
+  .copy-right{
+    width: 100%;
+  }
+  .coppyrights{
+    font-size: 18px;
+  }
+}
